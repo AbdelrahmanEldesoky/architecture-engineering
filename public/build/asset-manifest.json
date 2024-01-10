@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b608400.css",
+    "main.js": "/static/js/main.1be5c1e5.js",
+    "static/media/TheSans-Plain.otf": "/static/media/TheSans-Plain.515827cddc1b9c1a5b48.otf",
+    "static/media/TheSans-Bold.otf": "/static/media/TheSans-Bold.6eff96d7a14d384f1ade.otf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.9b608400.css",
+    "static/js/main.1be5c1e5.js"
+  ]
+}
